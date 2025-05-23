@@ -1,0 +1,211 @@
+
+#about_college{
+    width: 100%;
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(assets/images/aboutcollegebg.png);
+}
+.heading-div{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.color-white{
+    color: white;
+}
+.border-none{
+    border: none;
+}
+.bg-transparent{
+    background: transparent;
+}
+.bg-none{
+    background-color: none;
+}
+.shadow-none{
+    box-shadow: none;
+}
+
+.line{
+    width: 50px;
+    height: 5px;
+    padding: opx;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
+#notices_slider_id{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(36, 61, 119);
+}
+.notices_slider_a{
+    color: white; 
+    text-decoration: none; 
+    font-size: 20px;
+    margin-left: 150px;
+}
+.card-aboutcollege{
+    margin-top: 15px;
+    width: 170px; 
+    height: 225px;
+    border: none;
+}  
+.card-aboutcollege img{
+    height: 136px;
+    width: 128px;
+    margin: auto;
+}
+.card-body-aboutcollege{
+    text-align: center;
+}
+.heading-main{
+    font-family: cambria, sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: rgb(36, 61, 119);
+}
+#courses{
+    height: 300px;
+    width: 100%;
+    background-image: url(assets/images/coursebg.jpg);
+}
+.course-card{
+    height: 150px;
+    width: 160px;
+    margin-top: 30px;
+    background: transparent;
+    border: none;
+}
+.course-icon{
+    font-size: 70px;
+    margin: auto;
+    color: white;
+}
+.course-body{
+    text-align: center;
+}
+.course-heading{
+    font-size: 25px;
+    color: white;
+
+}
+.manager-img-div{
+    padding: 0px;
+    text-align: center;
+}
+.manager-body-div{
+    font-family: Arial, Helvetica, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#manager-img{
+    margin-top: 28px;
+    width: 200px;
+    border: 1px solid #000;
+}
+.manager-name-heading{
+    font-size: 30px;
+    font-weight: bold;
+    color: #243D77;
+    margin-top: 20px;
+}
+.manager-post-heading{
+    font-weight: 600;
+}
+.manager-body-text{
+    font-size: 14px;
+    font-style: italic;
+    color: #868181;
+}
+.manager-readmore{
+    text-decoration: none;
+    color: red;
+    font-weight: 550;
+    float: right;
+    padding-right: 50px ;
+}
+#strength{
+    height: 250px;
+    width: 100%;
+    background-image: url(assets/images/strengthbg.png);
+    margin-top: 50px;
+}
+.strength-card{
+    height: 150px;
+    width: 200px;
+    margin-top: 60px;
+    background: transparent;
+    border: none;
+}
+.strength-icon{
+    font-size: 40px;
+    margin: auto;
+    color: white;
+}
+.strength-body{
+    text-align: center;
+}
+.strength-heading{
+    font-size: 19px;
+    color: white;
+
+}
+.strength-number{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 5px;
+}
+.strength-dash{
+    color: white;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.card-infra{
+    height: 500px;
+    width: auto;
+    
+}
+.card-body-infra{
+    text-align: center;
+    padding: 0%;
+}
+.card-infra-heading{
+    width: 100%;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    background-color: #243D77;
+    margin: 0%;
+    padding-top: 8px;
+}
+.card-infra-para{
+    text-align: justify;
+    margin: 20px;
+    font-size: 14px;
+    color: #868181;
+}
+.card-infra-img{
+    width: 100%;
+    height: 263px;
+}
+.life-img-div{
+    padding: 0px;
+}
+.life-img{
+    width: 506.4px;
+    height: 353px;
+    
+}
+.button-faq{
+    font-size: 20px;
+    font-weight: bold;
+}
+.content-faq{
+    padding-left: 40px;
+    text-align: justify;
+    padding-right: 80px;
+    color: #868181;
+}
